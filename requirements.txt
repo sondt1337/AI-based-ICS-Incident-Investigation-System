@@ -2,3 +2,4 @@ scikit-learn
 pandas
 seaborn
 xgboost
+hyperopt
