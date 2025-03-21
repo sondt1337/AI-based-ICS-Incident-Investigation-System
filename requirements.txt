@@ -3,3 +3,4 @@ pandas
 seaborn
 xgboost
 hyperopt
+torch
